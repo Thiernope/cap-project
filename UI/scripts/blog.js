@@ -27,7 +27,7 @@ signupModal.addEventListener("click", event=>{
 
 
 
-//showing login modal
+//showing login mod
 
 const loginTrigButton = document.querySelector("#login-form"); 
 const loginModal = document.querySelector(".login-modal-container");
@@ -60,7 +60,7 @@ const password = document.getElementById("paswd");
 const errorMessage = document.getElementById("error");
 errorMessage.style.color= "red";
 errorMessage.style.backgroundColor = "lightblue";
-errorMessage.style.padding ="10px 20px"
+errorMessage.style.padding ="10px 19px"
 errorMessage.style.textAlign ="center";
 errorMessage.style.display ="none";
 
