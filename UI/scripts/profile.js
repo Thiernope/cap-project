@@ -1,3 +1,4 @@
+//showing model
 const trigaringButton = document.querySelector(".update");
 const modal = document.querySelector(".modal");
 const modalClose = document.querySelector(".modal-close");
